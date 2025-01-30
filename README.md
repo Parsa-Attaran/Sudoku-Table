@@ -1,2 +1,3 @@
 # Sudoku-Table
-simple sudoku table game wrote by C++ 
+simple sudoku table game written in C++ 
+Credit By Parsa Attaran.
